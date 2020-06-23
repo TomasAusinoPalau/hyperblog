@@ -29,3 +29,10 @@ body {
 .tagline {
   text-align: center;
 }
+
+.bottom {
+  margin: 10px 10px;
+  margin: auto;
+  border: 1px solid #DDD;
+  width: 70%;
+}
